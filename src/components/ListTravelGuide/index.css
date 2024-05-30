@@ -1,0 +1,24 @@
+.list-of-guide {
+  list-style-type: none;
+  margin: 10px;
+  background-color: #ffffff;
+  width: 350px;
+  min-height: 350px;
+}
+.image {
+  width: 350px;
+}
+.name-heading {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.description {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.content-container {
+  padding: 10px;
+}

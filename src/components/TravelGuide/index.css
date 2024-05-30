@@ -1,0 +1,30 @@
+.app-container {
+  min-height: 100vh;
+  background-color: #eef4f7;
+  padding: 30px;
+}
+.heading {
+  text-align: center;
+  text-decoration: underline;
+  color: #334155;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.loader {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.success-view-container {
+  min-height: 100vh;
+}
+.unorder-list-guide {
+  padding: 00px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
